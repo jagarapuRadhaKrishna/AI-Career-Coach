@@ -22,10 +22,9 @@ export default function RootLayout({ children }) {
     >
       <html lang="en" suppressHydrationWarning>
         <head>
-          {/* Favicon - can be kept or changed as needed */}
-          <link rel="icon" href="/career_14646654.png" sizes="any" />
+          <link rel="icon" href="/logo.png" sizes="any" />
         </head>
-        <body className={inter.className}>
+        <body className={`${inter.className}`}>
           <ThemeProvider
             attribute="class"
             defaultTheme="dark"
@@ -33,19 +32,12 @@ export default function RootLayout({ children }) {
             disableTransitionOnChange
           >
             <Header />
-            <main className="min-h-screen mt-24">{children}</main>
+            <main className="min-h-screen">{children}</main>
             <Toaster richColors />
 
             <footer className="bg-muted/50 py-12">
               <div className="container mx-auto px-4 text-center text-gray-200">
-                <h2 className="text-xl font-bold mb-2">Developed By : JAGARAPU RADHA KRISHNA</h2>
-                <div className="flex justify-center gap-4 mt-2 mb-4 text-sm">
-                  <a href="https://www.linkedin.com/in/jagarapuradhakrishna/" target="_blank" rel="noopener noreferrer" className="hover:underline text-blue-400">LinkedIn</a>
-                  <span>|</span>
-                  <a href="https://github.com/jagarapuRadhaKrishna" target="_blank" rel="noopener noreferrer" className="hover:underline text-gray-300">GitHub</a>
-                  <span>|</span>
-                  <a href="mailto:radhakrishna02256@gmail.com" className="hover:underline text-red-400">Gmail</a>
-                </div>
+                <p>Made with 💗 by RoadsideCoder</p>
               </div>
             </footer>
           </ThemeProvider>
