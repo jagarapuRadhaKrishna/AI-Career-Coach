@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/UbXpRv5ApKA
+## 🚀 Live Demo
 
-![sensai](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](https://684e10c3b24b5905faaa622c--ai-career-coach-dev.netlify.app/)
+
+🌐 [View the deployed site on Netlify](https://684e10c3b24b5905faaa622c--ai-career-coach-dev.netlify.app/)
 
 ### Make sure to create a `.env` file with following variables -
 
