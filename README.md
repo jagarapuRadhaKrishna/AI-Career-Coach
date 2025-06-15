@@ -43,7 +43,7 @@ GEMINI_API_KEY=
 ```
 =======
 
-## Features
+## 🎯 Features
 
 - AI Resume Review & Feedback: Upload or build your resume and get actionable improvements.
 
@@ -57,7 +57,7 @@ GEMINI_API_KEY=
 
 - Modern UI: Clean, responsive design powered by Tailwind CSS.
 
-## Getting Started
+## 🧑‍💻Getting Started
 
 1. Clone the repository
 2. Install dependencies: `npm install`
