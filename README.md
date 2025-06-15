@@ -9,23 +9,6 @@ An intelligent AI-powered Career Coaching Assistant built with a full-stack mode
 🌐 [View the deployed site on Netlify](https://684e10c3b24b5905faaa622c--ai-career-coach-dev.netlify.app/)
 
 
-## 📸 Preview 
-
-- A welcoming landing page with call-to-action buttons for "Get Started" and "Watch Demo".
-
-
-- Interactive Resume Builder form with live Markdown preview and PDF download.
-
-
-- Cover Letters dashboard inviting users to create personalized letters.
-
-
-- Interview Preparation section showing average scores, trends, and recent quiz performance.
-
-
-
-
-
 ### Make sure to create a `.env` file with following variables -
 
 ```
