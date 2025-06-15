@@ -4,7 +4,7 @@ An intelligent AI-powered Career Coaching Assistant built with a full-stack mode
 
 ## 🚀 Live Demo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](https://684e10c3b24b5905faaa622c--ai-career-coach-dev.netlify.app/)
+[[Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](https://684e10c3b24b5905faaa622c--ai-career-coach-dev.netlify.app/)
 
 🌐 [View the deployed site on Netlify](https://684e10c3b24b5905faaa622c--ai-career-coach-dev.netlify.app/)
 
