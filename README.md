@@ -75,7 +75,7 @@ GEMINI_API_KEY=
 
  - Pull requests are welcome! If you'd like to collaborate, feel free to fork the repo and submit a PR.
 
-## License
+## 📄 License
 
 MIT
 >>>>>>> 6f30539de03b09cf0ad200c68f5b9a1abcc64238
